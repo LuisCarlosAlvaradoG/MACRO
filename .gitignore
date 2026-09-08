@@ -1,1 +1,5 @@
 data/
+.macrobus/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
